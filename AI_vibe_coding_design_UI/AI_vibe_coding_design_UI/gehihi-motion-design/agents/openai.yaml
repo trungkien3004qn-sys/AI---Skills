@@ -1,0 +1,14 @@
+interface:
+  display_name: Gehihi Motion Design
+  short_description: Thiết kế kể chuyện, hiệu ứng cuộn; tự chọn màu
+  default_prompt: Use $gehihi-motion-design to design my website with narrative layouts
+    and purposeful motion; leave palette choices to me.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
